@@ -18,3 +18,4 @@
 
 ## OTHER COMMANDS:
 * git restore
+* test

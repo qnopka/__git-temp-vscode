@@ -15,3 +15,6 @@
 * git restore
 * git rm
 * clear
+
+## OTHER COMMANDS:
+* git restore
